@@ -13,7 +13,7 @@ Real-time AI help on a stealth overlay that screen sharing cannot see. Ask by vo
   <img src="https://img.shields.io/badge/Platforms-Windows%20%7C%20macOS%20%7C%20Linux-111111?style=for-the-badge&labelColor=000000" alt="Platforms" />
 </p>
 
-<a href="https://opencluely.techycsr.dev"><b>Website</b></a> &nbsp;|&nbsp;
+<a href="https://rudra00434.github.io/OpenCluely-v2.0"><b>Website</b></a> &nbsp;|&nbsp;
 <a href="#download">Download</a> &nbsp;|&nbsp;
 <a href="#quick-start">Quick start</a> &nbsp;|&nbsp;
 <a href="#how-it-works">How it works</a>
